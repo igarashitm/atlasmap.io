@@ -3,21 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://atlasmap.io/</loc>
+    <loc>https://www.atlasmap.io/</loc>
   </url>
   
   <url>
-    <loc>https://atlasmap.io/</loc>
+    <loc>https://www.atlasmap.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://atlasmap.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atlasmap.io/tags/</loc>
+    <loc>https://www.atlasmap.io/tags/</loc>
     <priority>0</priority>
   </url>
   
